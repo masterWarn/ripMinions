@@ -4,7 +4,7 @@ Procédure de root de Blinux 3.0
 ## Avertissement
 > "Un grand pouvoir implique une grande responsabilité."
 
-Attention, une fois root, vous pouvez tout faire sur vos dump. Si vous faites une connerie vous êtes le seul responsable, surtout si vous devez redump.
+Attention, une fois root, vous pouvez tout faire sur vos dump. Vous êtes le seul responsable, surtout si vous devez redump !
 
 ## Procédure
 
