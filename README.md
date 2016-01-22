@@ -28,9 +28,13 @@ Root de blinux et désactivation des salt minions et du salt master (script anti
 Puis dans un terminal taper ces 5 commandes:
 
 sudo su (pour passer root)
+
 passwd root (pour changer le mot de passe du compte root)
+
 pkcon remove salt-minion
+
 systemctl disable salt-master
+
 systemctl disable salt-minion
 
 Rebootez la machine.
