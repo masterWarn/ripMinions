@@ -15,11 +15,11 @@ http://www.ext2fsd.com/
 -Modifier le fichier /etc/sudoers de votre partition blinux 3.0. (Par défaut la lettre attribué sous windows est D).
 Vous devez changer la ligne:
 
-> ALL =(ALL) ALL
+> ALL    ALL=(ALL) ALL
 
 en:
 
-> ALL =(ALL) NOPASSWD:ALL
+> ALL    ALL=(ALL) NOPASSWD:ALL
 
 Sauvegardez puis booter sous Blinux
 
