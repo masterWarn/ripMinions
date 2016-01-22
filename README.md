@@ -16,7 +16,9 @@ http://www.ext2fsd.com/
 Vous devez changer la ligne:
 
 > ALL = ALL (ALL) ALL
+
 en:
+
 > ALL = (ALL) NOPASSWD:ALL
 
 Sauvegardez puis booter sous Blinux
