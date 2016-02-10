@@ -39,4 +39,4 @@ Puis dans un terminal taper ces 5 commandes:
 
 Rebootez la machine.
 Félicitation, vous êtes root.
-Si après reboot sudo vous demande un mot de passe root que vous ne connaissez pas, appliquez la procedure de modification du sudoers ci dessus.
+Si après reboot sudo vous demande un mot de passe root que vous ne connaissez pas, réappliquez la procedure de modification du sudoers ci dessus.
