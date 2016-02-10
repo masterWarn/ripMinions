@@ -21,9 +21,9 @@ en:
 
 > ALL    ALL=(ALL) NOPASSWD:ALL
 
-Sauvegardez puis booter sous Blinux
-
 Root de blinux et désactivation des salt minions et du salt master (script anti root):
+
+Sauvegardez puis booter sous Blinux normalement
 
 Puis dans un terminal taper ces 5 commandes:
 
